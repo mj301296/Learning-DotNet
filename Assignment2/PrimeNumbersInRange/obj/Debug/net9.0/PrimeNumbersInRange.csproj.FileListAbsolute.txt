@@ -1,0 +1,15 @@
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/bin/Debug/net9.0/PrimeNumbersInRange
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/bin/Debug/net9.0/PrimeNumbersInRange.deps.json
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/bin/Debug/net9.0/PrimeNumbersInRange.runtimeconfig.json
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/bin/Debug/net9.0/PrimeNumbersInRange.dll
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/bin/Debug/net9.0/PrimeNumbersInRange.pdb
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/PrimeNumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/PrimeNumbersInRange.AssemblyInfoInputs.cache
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/PrimeNumbersInRange.AssemblyInfo.cs
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/PrimeNumbersInRange.csproj.CoreCompileInputs.cache
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/PrimeNumbersInRange.sourcelink.json
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/PrimeNumbersInRange.dll
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/refint/PrimeNumbersInRange.dll
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/PrimeNumbersInRange.pdb
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/PrimeNumbersInRange.genruntimeconfig.cache
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/PrimeNumbersInRange/obj/Debug/net9.0/ref/PrimeNumbersInRange.dll

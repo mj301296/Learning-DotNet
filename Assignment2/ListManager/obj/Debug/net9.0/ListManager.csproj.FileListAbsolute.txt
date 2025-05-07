@@ -1,0 +1,15 @@
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/bin/Debug/net9.0/ListManager
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/bin/Debug/net9.0/ListManager.deps.json
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/bin/Debug/net9.0/ListManager.runtimeconfig.json
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/bin/Debug/net9.0/ListManager.dll
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/bin/Debug/net9.0/ListManager.pdb
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ListManager.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ListManager.AssemblyInfoInputs.cache
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ListManager.AssemblyInfo.cs
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ListManager.csproj.CoreCompileInputs.cache
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ListManager.sourcelink.json
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ListManager.dll
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/refint/ListManager.dll
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ListManager.pdb
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ListManager.genruntimeconfig.cache
+/Volumes/nvme1TB_SSD/Antra/Assignments/Learning-DotNet/Assignment2/ListManager/obj/Debug/net9.0/ref/ListManager.dll
