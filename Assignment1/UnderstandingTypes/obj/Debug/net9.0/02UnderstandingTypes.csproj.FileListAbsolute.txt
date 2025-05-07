@@ -1,0 +1,14 @@
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.deps.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.runtimeconfig.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/refint/02UnderstandingTypes.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/02UnderstandingTypes/obj/Debug/net9.0/ref/02UnderstandingTypes.dll

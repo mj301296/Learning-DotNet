@@ -1,0 +1,14 @@
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/bin/Debug/net9.0/TestCodeRun
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/bin/Debug/net9.0/TestCodeRun.deps.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/bin/Debug/net9.0/TestCodeRun.runtimeconfig.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/bin/Debug/net9.0/TestCodeRun.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/bin/Debug/net9.0/TestCodeRun.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/TestCodeRun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/TestCodeRun.AssemblyInfoInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/TestCodeRun.AssemblyInfo.cs
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/TestCodeRun.csproj.CoreCompileInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/TestCodeRun.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/refint/TestCodeRun.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/TestCodeRun.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/TestCodeRun.genruntimeconfig.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/TestCodeRun/obj/Debug/net9.0/ref/TestCodeRun.dll

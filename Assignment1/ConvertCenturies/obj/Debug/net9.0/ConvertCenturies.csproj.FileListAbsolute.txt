@@ -1,0 +1,14 @@
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/bin/Debug/net9.0/ConvertCenturies
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/bin/Debug/net9.0/ConvertCenturies.deps.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/bin/Debug/net9.0/ConvertCenturies.runtimeconfig.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/bin/Debug/net9.0/ConvertCenturies.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/bin/Debug/net9.0/ConvertCenturies.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/ConvertCenturies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/ConvertCenturies.AssemblyInfoInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/ConvertCenturies.AssemblyInfo.cs
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/ConvertCenturies.csproj.CoreCompileInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/ConvertCenturies.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/refint/ConvertCenturies.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/ConvertCenturies.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/ConvertCenturies.genruntimeconfig.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/ConvertCenturies/obj/Debug/net9.0/ref/ConvertCenturies.dll

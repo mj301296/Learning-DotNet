@@ -1,0 +1,14 @@
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/bin/Debug/net9.0/Greetings
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/bin/Debug/net9.0/Greetings.deps.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/bin/Debug/net9.0/Greetings.runtimeconfig.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/bin/Debug/net9.0/Greetings.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/bin/Debug/net9.0/Greetings.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/Greetings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/Greetings.AssemblyInfoInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/Greetings.AssemblyInfo.cs
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/Greetings.csproj.CoreCompileInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/Greetings.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/refint/Greetings.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/Greetings.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/Greetings.genruntimeconfig.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/Greetings/obj/Debug/net9.0/ref/Greetings.dll

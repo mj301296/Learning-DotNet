@@ -1,0 +1,14 @@
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/bin/Debug/net9.0/AgeInDays
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/bin/Debug/net9.0/AgeInDays.deps.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/bin/Debug/net9.0/AgeInDays.runtimeconfig.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/bin/Debug/net9.0/AgeInDays.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/bin/Debug/net9.0/AgeInDays.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/AgeInDays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/AgeInDays.AssemblyInfoInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/AgeInDays.AssemblyInfo.cs
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/AgeInDays.csproj.CoreCompileInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/AgeInDays.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/refint/AgeInDays.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/AgeInDays.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/AgeInDays.genruntimeconfig.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/AgeInDays/obj/Debug/net9.0/ref/AgeInDays.dll

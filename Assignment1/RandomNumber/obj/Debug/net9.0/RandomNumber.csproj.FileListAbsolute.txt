@@ -1,0 +1,14 @@
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/bin/Debug/net9.0/RandomNumber
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/bin/Debug/net9.0/RandomNumber.deps.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/bin/Debug/net9.0/RandomNumber.runtimeconfig.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/bin/Debug/net9.0/RandomNumber.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/bin/Debug/net9.0/RandomNumber.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/RandomNumber.AssemblyInfoInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/RandomNumber.AssemblyInfo.cs
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/RandomNumber.csproj.CoreCompileInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/RandomNumber.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/refint/RandomNumber.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/RandomNumber.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/RandomNumber.genruntimeconfig.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/RandomNumber/obj/Debug/net9.0/ref/RandomNumber.dll

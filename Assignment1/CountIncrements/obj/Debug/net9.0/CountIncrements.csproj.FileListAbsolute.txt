@@ -1,0 +1,14 @@
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/bin/Debug/net9.0/CountIncrements
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/bin/Debug/net9.0/CountIncrements.deps.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/bin/Debug/net9.0/CountIncrements.runtimeconfig.json
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/bin/Debug/net9.0/CountIncrements.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/bin/Debug/net9.0/CountIncrements.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/CountIncrements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/CountIncrements.AssemblyInfoInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/CountIncrements.AssemblyInfo.cs
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/CountIncrements.csproj.CoreCompileInputs.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/CountIncrements.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/refint/CountIncrements.dll
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/CountIncrements.pdb
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/CountIncrements.genruntimeconfig.cache
+/Users/mrugankjadhav/RiderProjects/Assignment1/CountIncrements/obj/Debug/net9.0/ref/CountIncrements.dll
